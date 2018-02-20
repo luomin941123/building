@@ -1,0 +1,10 @@
+.box {
+  padding: 10px;
+  font-size: 30px;
+  background: #eee;
+  color: #333;
+  cursor: pointer;
+}
+.box:hover {
+  color: green;
+}
